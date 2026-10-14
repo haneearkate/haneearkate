@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Hanee Arkate 👋
 
-<!--
-**haneearkate/haneearkate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Scholar with a Master of Science in Microbiology, exploring bioinformatics, data analysis, and genomics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧬 What I Work With
+- **Languages & Tools:** RStudio, Bash, Git *(currently learning Bash and Git)*
+- **Interests:** Microbiology, bioinformatics, data analysis
+
+---
+
+#### 🌐 Find Me
+- **LinkedIn:** [Hanee Arkate](https://www.linkedin.com/in/hanee-arkate-925aa3208)
+- **GitHub:** [@haneearkate](https://github.com/haneearkate)
