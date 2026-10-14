@@ -6,7 +6,7 @@ Research Scholar with a Master of Science in Microbiology, exploring bioinformat
 
 #### 🧬 What I Work With
 - **Languages & Tools:** RStudio, Bash, Git *(currently learning Bash and Git)*
-- **Interests:** Microbiology, bioinformatics, data analysis
+- **Interests:** Microbiology, molecular biology, bioinformatics
 
 ---
 
